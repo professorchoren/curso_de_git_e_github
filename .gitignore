@@ -1,0 +1,10 @@
+# Ignorando um único arquivo
+logo_branco.jpg
+
+# Ignorando arquivos de uma extensão predefinida
+*.png
+
+# Ignorando pastas/diretórios
+vendor/
+node_modules/
+docs/
