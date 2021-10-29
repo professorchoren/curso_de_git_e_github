@@ -15,3 +15,6 @@
 13. Comando git merge
 14. Comando git tag
 15. Conhecendo o GitHub e utilizando o comando git push
+16. Comando Git push - Publicando alterações no GitHub
+17. Comando Git pull
+18. Publicando tags no GitHub
