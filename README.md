@@ -9,3 +9,9 @@
 7. Comando git log
 8. Comando git rm
 9. Comando git diff
+10. Comandos git restore e reset
+11. O arquivo .gitignore
+12. Comando git checkout
+13. Comando git merge
+14. Comando git tag
+15. Conhecendo o GitHub e utilizando o comando git push
