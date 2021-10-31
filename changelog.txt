@@ -1,3 +1,2 @@
-17/10/2021 - A
-
 31/10/2021 - Aprendendo sobre a gestão de conflitos
+17/10/2021 - Aprendendo a usar o comando git log
