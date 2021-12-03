@@ -3,7 +3,7 @@
 1. Controle de versão
 2. Conhecendo o Git
 3. Instalando o Git CLI no Windows
-4. nstalando o Git CLI no Linux
+4. Instalando o Git CLI no Linux
 5. Comandos básicos do Git
 6. Comando git commit
 7. Comando git log
@@ -18,3 +18,5 @@
 16. Comando Git push - Publicando alterações no GitHub
 17. Comando Git pull
 18. Publicando tags no GitHub
+19. Gestão de conflitos no merge
+20. Contribuição com repositório no GitHub
